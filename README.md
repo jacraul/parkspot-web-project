@@ -6,13 +6,13 @@ ParkSpot is a comprehensive web application designed to simplify parking managem
 
 ## 👥 Team & Contributions
 
-### **Tudor-Neculai BALBA – Frontend & Map Interaction**
+### **Raul JAC – Frontend & Map Interaction**
 - **Interactive Map Integration:** Implemented OpenStreetMap with Leaflet.js to render the parking map centered on Bucharest.  
 - **Geolocation Services:** Developed the **"Park Here (GPS)"** feature using the device’s geolocation API.  
 - **UI/UX Design:** Created the responsive interface using Bootstrap 5, with a modern blue/green theme.  
 - **Manual Pin Drop:** Implemented **Manual Reservation**, allowing users to drag-and-drop a pin for custom parking locations.
 
-### **Raul-Anton JAC – Backend & Database Architecture**
+### **Tudor BALBA – Backend & Database Architecture**
 - **Backend Logic:** Built the Flask backend handling routes, REST APIs, and business logic.  
 - **Database Management:** Designed the PostgreSQL schema for Users, Cars, Spots, Reservations (SQLAlchemy ORM).  
 - **Authentication System:** Secure login/registration with email validation and hashed passwords (Flask-Bcrypt).  
